@@ -14,29 +14,28 @@ It is required to have git, Node.js and npm installed to clone and run this proj
 
 ## Installation
 
-Run `npm install` (or `npm i`for the short version) to install the dev dependecies.
+Run `npm install` (or `npm i` for the short version) to install the dev dependencies.
 
 ## Tests
 
 In this project, you can run the tests on a desktop or mobile viewport.
 
-## Desktop
+### Desktop
 
-Run `npm test` to run the test in headless mode on a desktop viewport.
+Run `npm test` to execute the tests in headless mode on a desktop viewport.  
 
-Or,run `npm run open` to open the Cypress App on a desktop viewport.
+Or run `npm run open` to open the Cypress App on a desktop viewport.
 
+### Mobile
 
-## Mobile
+Run `npm test:mobile` to execute the tests in headless mode on a mobile viewport.  
 
-Run `npm test:mobile` to run the test in headless mode on a mobile viewport.
-
-Or,run `npm run open:mobile` to open the Cypress App on a mobile viewport.
+Or run `npm run open:mobile` to open the Cypress App on a mobile viewport.
 
 ## Support this project
 
 If you want to support this project, leave a ⭐.
 
-____________
+---
 
-This project was created with <3 by Angelica.
+This project was created with ❤️ by Angelica.
