@@ -7,6 +7,7 @@ Sample project for the "Cypress, from Zero to the Cloud" course of the Talking A
 It is required to have git, Node.js and npm installed to clone and run this project.
 
 > I've used the following versions:
+> 
 >**Node.js:** v24.11.1  
 >**npm:** v11.6.2  
 >**Git:** version 2.52.0
