@@ -10,7 +10,7 @@ It is required to have git, Node.js and npm installed to clone and run this proj
 > 
 >**Node.js:** v24.11.1  
 >**npm:** v11.6.2  
->**Git:** version 2.52.0
+>**Git:** v2.52.0
 
 ## Installation
 
